@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Nanjing university since Sep. 2020. More specifically, I'm in the [IIP group](http://iip.nju.edu.cn/), supervised by Prof. Chongjun Wang.
+I'm a Ph.D. student in Nanjing university since Sep. 2020. More specifically, I'm in the [IIP group](http://iip.nju.edu.cn/), supervised by Prof. Chongjun Wang. 
 
 I'm mainly interested in deep learning under imperfect label information, including **semi-supervised learning** and **leanring with noisy labels**. 
 
-**I am looking for internship opportunities. Please let me know if you think I can be a good fit.**
+Currently, I'm doing my internship at Tencent AI Lab.
 
 News
 ======
