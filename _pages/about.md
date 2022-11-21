@@ -36,7 +36,7 @@ SSCpred: Single-Sequence-Based Protein Contact Prediction Using Deep Fully Convo
 
 Preprint:
 
-- **Mingcai Chen**, Yu Zhao*, Bing He, Zongbo Han, Bingzhe Wu, Jianhua Yao.
+- **Mingcai Chen**, Yu Zhao*, Bing He, Zongbo Han, Bingzhe Wu, Jianhua Yao.  
 Learning with Noisy Labels over Imbalanced Subpopulations.
 
 
