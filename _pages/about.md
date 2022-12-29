@@ -10,12 +10,12 @@ redirect_from:
 
 I'm a Ph.D. student in Nanjing university since Sep. 2020. More specifically, I'm in the [IIP group](http://iip.nju.edu.cn/), supervised by Prof. Chongjun Wang. 
 
-I'm mainly interested in deep learning under imperfect label information, including **semi-supervised learning** and **leanring with noisy labels**. 
+I'm mainly interested in deep learning under imperfect label information, including **semi-supervised learning** and **learning with noisy labels**. 
 
 
-News
+<!-- News
 ======
-
+-->
 
 Publications
 ======
@@ -44,6 +44,4 @@ Learning with Noisy Labels over Imbalanced Subpopulations.
 
 Services
 ======
-- Reviewer, CVPR 22,23
-- Reviewer, AAAI 2023
-- Reviewer, ECCV 2022
+- Reviewer, CVPR 22,23 & AAAI 23 & ECCV 22
