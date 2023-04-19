@@ -19,6 +19,10 @@ I'm mainly interested in deep learning under imperfect label information, includ
 
 Publications
 ======
+- **Mingcai Chen**, Yu Zhao*, Bing He, Zhonghuang Wang, Jianhua Yao.  
+A Noisy-Label-Learning Formulation for Immune Repertoire Classification and Disease-Associated Immune Receptor Sequence Identification.  
+Accepted by *The 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**)*.  
+[Acceptance Rate: ~15%]
 
 - **Mingcai Chen**, Hao Cheng, Yuntao Du, Ming Xu, Wenyu Jiang, Chongjun Wang.  
 Two Wrongs Don't Make a Right: Combating Confirmation Bias in Learning with Label Noise.  
@@ -34,6 +38,7 @@ Semi-Supervised Learning with Multi-Head Co-Training.
 SSCpred: Single-Sequence-Based Protein Contact Prediction Using Deep Fully Convolutional Network.  
 *Journal of Chemical Information and Modeling (**JCIM**)*, 2020, 60(6): 3295-3303.  
 
+
 Preprint:
 
 - **Mingcai Chen**, Yu Zhao*, Bing He, Zongbo Han, Bingzhe Wu, Jianhua Yao.  
@@ -44,4 +49,4 @@ Learning with Noisy Labels over Imbalanced Subpopulations.
 
 Services
 ======
-- Reviewer, CVPR 22,23 & AAAI 23 & ECCV 22
+- Reviewer: CVPR 22,23 & AAAI 23 & ECCV 22 & ICCV 23
