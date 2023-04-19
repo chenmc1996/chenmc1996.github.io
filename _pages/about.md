@@ -19,7 +19,7 @@ I'm mainly interested in deep learning under imperfect label information, includ
 
 Publications
 ======
-- **Mingcai Chen**, Yu Zhao*, Bing He, Zhonghuang Wang, Jianhua Yao.  
+- **Mingcai Chen**, Yu Zhao\*, Bing He, Zhonghuang Wang, Jianhua Yao.  
 A Noisy-Label-Learning Formulation for Immune Repertoire Classification and Disease-Associated Immune Receptor Sequence Identification.  
 Accepted by *The 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**)*.  
 [Acceptance Rate: ~15%]
