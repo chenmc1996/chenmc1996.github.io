@@ -12,6 +12,7 @@ I'm a Ph.D. student in Nanjing university since Sep. 2020. More specifically, I'
 
 I'm mainly interested in deep learning under imperfect label information, including **semi-supervised learning** and **learning with noisy labels**. 
 
+**I am looking for internship opportunities. Please let me know if you think I can be a good fit :)**
 
 <!-- News
 ======
