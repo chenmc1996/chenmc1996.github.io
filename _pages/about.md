@@ -46,8 +46,8 @@ SSCpred: Single-Sequence-Based Protein Contact Prediction Using Deep Fully Convo
 Wenyu Jiang, Hao Cheng, **MingCai Chen**, Chongjun Wang, Hongxin Wei.  
 Accepted by *the 12nd International Conference on Learning Representations (**ICLR'24**)*
 
-- Wenyu Jiang, Yuxin Ge, Hao Cheng, **Mingcai Chen**, Shuai Feng, Yuxin Ge, Chongjun Wang. 
-READ: Aggregating Reconstruction Error into Out-of-distribution Detection. 
+- Wenyu Jiang, Yuxin Ge, Hao Cheng, **Mingcai Chen**, Shuai Feng, Yuxin Ge, Chongjun Wang.  
+READ: Aggregating Reconstruction Error into Out-of-distribution Detection.   
 *Proceedings of the 37th AAAI Conference on Artificial Intelligence (**AAAI'23**)*.   
 
 - Baoming Zhang, Ming Xu, **Mingcai Chen**, Mingyuan Chen, Chongjun Wang.   
