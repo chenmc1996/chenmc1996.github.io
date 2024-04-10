@@ -18,9 +18,14 @@ I'm mainly interested in deep learning under imperfect label information, includ
 
 Publications
 ======
+
+- **Mingcai Chen**, Yu Zhao\*, Bing He, Zongbo Han, Junzhou Huang, Jianhua Yao.  
+Learning with Noisy Labels over Imbalanced Subpopulations.  
+Accepted by *IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)*
+
 - **Mingcai Chen**, Yu Zhao\*, Bing He, Zhonghuang Wang, Jianhua Yao.  
 A Noisy-Label-Learning Formulation for Immune Repertoire Classification and Disease-Associated Immune Receptor Sequence Identification.  
-Accepted by *The 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**)*.  
+*Proceedings The 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**)*.  
 [Acceptance Rate: ~15%]
 
 - **Mingcai Chen**, Hao Cheng, Yuntao Du, Ming Xu, Wenyu Jiang, Chongjun Wang.  
@@ -36,6 +41,10 @@ Semi-Supervised Learning with Multi-Head Co-Training.
 - **Mingcai Chen**, Yang Li, Yi-Heng Zhu, Fang Ge, Dong-Jun Yu.  
 SSCpred: Single-Sequence-Based Protein Contact Prediction Using Deep Fully Convolutional Network.  
 *Journal of Chemical Information and Modeling (**JCIM**)*, 2020, 60(6): 3295-3303.  
+
+- DOS: Diverse Outlier Sampling for Out-of-Distribution Detection.  
+Wenyu Jiang, Hao Cheng, **MingCai Chen**, Chongjun Wang, Hongxin Wei.  
+Accepted by *the 12nd International Conference on Learning Representations (**ICLR'24**)*
 
 - Wenyu Jiang, Yuxin Ge, Hao Cheng, **Mingcai Chen**, Shuai Feng, Yuxin Ge, Chongjun Wang. 
 READ: Aggregating Reconstruction Error into Out-of-distribution Detection. 
@@ -53,13 +62,6 @@ CESED: Exploiting Hyperspherical Predefined Evenly-Distributed Class Centroids f
 Bidirectional View based Consistency Regularization for Semi-Supervised Domain Adaptation.   
 *Transactions on Machine Learning Research*.   
   
-Preprint:
-
-- **Mingcai Chen**, Yu Zhao*, Bing He, Zongbo Han, Bingzhe Wu, Jianhua Yao.  
-Learning with Noisy Labels over Imbalanced Subpopulations.
-
-
-
 
 Services
 ======
