@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in the School of Computer Science and Technology at Nanjing University of Posts and Telecommunications. I earned my Ph.D. in Computer Science and Technology from Nanjing University.
+I am currently an Associate Professor in the School of Computer Science and Technology at Nanjing University of Posts and Telecommunications. I earned my Ph.D. in Computer Science and Technology from Nanjing University.
 
 My research focuses on deep learning under imperfect data and in open-environments, particularly in areas such as **learning with noisy labels** and **distribution shift**. I welcome collaboration and inquiries and am passionate about academic exchange. I look forward to working with scholars and researchers from diverse fields to explore new research directions together.
 
