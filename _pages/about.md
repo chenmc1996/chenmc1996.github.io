@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Nanjing university since Sep. 2020. More specifically, I'm in the [IIP group](http://iip.nju.edu.cn/), supervised by Prof. Chongjun Wang. 
+I am currently an Assistant Professor in the School of Computer Science and Technology at Nanjing University of Posts and Telecommunications. I earned my Ph.D. in Computer Science and Technology from Nanjing University.
 
-I'm mainly interested in deep learning under imperfect label information, including **semi-supervised learning** and **learning with noisy labels**. 
+My research focuses on deep learning under imperfect data and in open-environments, particularly in areas such as **learning with noisy labels** and **distribution shift**. I welcome collaboration and inquiries and am passionate about academic exchange. I look forward to working with scholars and researchers from diverse fields to explore new research directions together.
 
 <!-- News
 ======
@@ -19,13 +19,24 @@ I'm mainly interested in deep learning under imperfect label information, includ
 Publications
 ======
 
+- **Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, Bingkun Bao.  
+Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data.  
+*Proceedings of The Forty-second International Conference on Machine Learning (**ICML 25**)*  
+[Acceptance Rate: ~27%]
+
+- **Mingcai Chen**, Yuntao Du, Wenyu Jiang, Baoming Zhang, Shuai Feng, Yi Xin, Chongjun Wang.  
+Robust Logit Adjustment for Learning with Long-Tailed Noisy Data. 
+*Proceedings of The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 25**)*  
+[Acceptance Rate: ~23%]
+
 - **Mingcai Chen**, Yu Zhao\*, Bing He, Zongbo Han, Junzhou Huang, Jianhua Yao.  
 Learning with Noisy Labels over Imbalanced Subpopulations.  
-Accepted by *IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)*
+*IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)*
+
 
 - **Mingcai Chen**, Yu Zhao\*, Bing He, Zhonghuang Wang, Jianhua Yao.  
 A Noisy-Label-Learning Formulation for Immune Repertoire Classification and Disease-Associated Immune Receptor Sequence Identification.  
-*Proceedings The 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**)*.  
+*Proceedings of The 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**)*.  
 [Acceptance Rate: ~15%]
 
 - **Mingcai Chen**, Hao Cheng, Yuntao Du, Ming Xu, Wenyu Jiang, Chongjun Wang.  
@@ -40,10 +51,10 @@ Semi-Supervised Learning with Multi-Head Co-Training.
 
 - **Mingcai Chen**, Yang Li, Yi-Heng Zhu, Fang Ge, Dong-Jun Yu.  
 SSCpred: Single-Sequence-Based Protein Contact Prediction Using Deep Fully Convolutional Network.  
-*Journal of Chemical Information and Modeling (**JCIM**)*, 2020, 60(6): 3295-3303.  
+*Journal of Chemical Information and Modeling (**JCIM**)*
 
-- DOS: Diverse Outlier Sampling for Out-of-Distribution Detection.  
-Wenyu Jiang, Hao Cheng, **MingCai Chen**, Chongjun Wang, Hongxin Wei.  
+- Wenyu Jiang, Hao Cheng, **MingCai Chen**, Chongjun Wang, Hongxin Wei.   
+DOS: Diverse Outlier Sampling for Out-of-Distribution Detection.
 Accepted by *the 12nd International Conference on Learning Representations (**ICLR'24**)*
 
 - Wenyu Jiang, Yuxin Ge, Hao Cheng, **Mingcai Chen**, Shuai Feng, Yuxin Ge, Chongjun Wang.  
