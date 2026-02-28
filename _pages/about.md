@@ -16,7 +16,7 @@ My research focuses on deep learning under imperfect data and in open-environmen
 ======
 -->
 
-Publications
+Selected Publications
 ======
 
 **Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, Bingkun Bao.  
@@ -72,8 +72,6 @@ CESED: Exploiting Hyperspherical Predefined Evenly-Distributed Class Centroids f
 Yuntao Du, Juan Jiang, Hongtao Luo, Haiyang Yang, **Mingcai Chen**, Chongjun Wang.  
 Bidirectional View based Consistency Regularization for Semi-Supervised Domain Adaptation.   
 *Transactions on Machine Learning Research*.   
-  
 
-Services
-======
-- Reviewer: CVPR 22,23 & AAAI 23 & ECCV 22 & ICCV 23
+
+
