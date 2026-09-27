@@ -34,11 +34,6 @@ Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal D
 *Proceedings of The Forty-second International Conference on Machine Learning (**ICML 25**)*  
 [Acceptance Rate: ~27%]
 
-**Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, Bingkun Bao.  
-Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data.  
-*Proceedings of The Forty-second International Conference on Machine Learning (**ICML 25**)*  
-[Acceptance Rate: ~27%]
-
 **Mingcai Chen**, Yuntao Du, Wenyu Jiang, Baoming Zhang, Shuai Feng, Yi Xin, Chongjun Wang.  
 Robust Logit Adjustment for Learning with Long-Tailed Noisy Data. 
 *Proceedings of The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 25**)*  
