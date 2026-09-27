@@ -18,7 +18,6 @@ My research focuses on deep learning under imperfect data and in open-environmen
 
 Selected Publications 
 ======
-* Equal contribution; † Corresponding author.
 
 **Mingcai Chen**, Heng-yang Lu, Yuntao Du, Baoming Zhang, Hao Zhou.  
 Test-Time Adaptation via Self-Reinforced Optimal Transport for Zero-Shot OOD Detection with Vision–Language Models.  
@@ -89,5 +88,6 @@ Yuntao Du, Juan Jiang, Hongtao Luo, Haiyang Yang, **Mingcai Chen**, Chongjun Wan
 Bidirectional View based Consistency Regularization for Semi-Supervised Domain Adaptation.   
 *Transactions on Machine Learning Research*.   
 
+_* Equal contribution; † Corresponding author._
 
 
