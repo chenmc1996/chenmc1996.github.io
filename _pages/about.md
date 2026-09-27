@@ -16,8 +16,24 @@ My research focuses on deep learning under imperfect data and in open-environmen
 ======
 -->
 
-Selected Publications
+Selected Publications 
 ======
+* Equal contribution; † Corresponding author.
+
+**Mingcai Chen**, Heng-yang Lu, Yuntao Du, Baoming Zhang, Hao Zhou.  
+Test-Time Adaptation via Self-Reinforced Optimal Transport for Zero-Shot OOD Detection with Vision–Language Models.  
+*The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**)*  
+[Acceptance Rate: **25.7%**]
+
+Hao Zhou, SiQi Cai, Hua Dai, Letian Sha, Yichen Li, **Mingcai Chen**†.  
+Budget-Conditioned Clipping Policies for Differentially Private Federated Learning.  
+*The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**)*  
+[Acceptance Rate: **25.7%**]
+
+**Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, Bingkun Bao.  
+Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data.  
+*Proceedings of The Forty-second International Conference on Machine Learning (**ICML 25**)*  
+[Acceptance Rate: ~27%]
 
 **Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, Bingkun Bao.  
 Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data.  
