@@ -19,69 +19,73 @@ My research focuses on deep learning under imperfect data and in open-environmen
 Selected Publications 
 ======
 
-**Mingcai Chen**, Heng-yang Lu, Yuntao Du, Baoming Zhang, Hao Zhou.  
-Test-Time Adaptation via Self-Reinforced Optimal Transport for Zero-Shot OOD Detection with Vision–Language Models.  
-*The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**)*  
-[Acceptance Rate: **25.7%**]
+**Mingcai Chen**, Heng-yang Lu, Yuntao Du, Baoming Zhang, and Hao Zhou.
+Test-Time Adaptation via Self-Reinforced Optimal Transport for Zero-Shot OOD Detection with Vision–Language Models.
+*Proceedings of the 40th Annual Conference on Neural Information Processing Systems (**NeurIPS'26**).*
+[Acceptance Rate: ~25.7%]
 
-Hao Zhou, SiQi Cai, Hua Dai, Letian Sha, Yichen Li, **Mingcai Chen**†.  
-Budget-Conditioned Clipping Policies for Differentially Private Federated Learning.  
-*The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS 2026**)*  
-[Acceptance Rate: **25.7%**]
+Hao Zhou, SiQi Cai, Hua Dai, Letian Sha, Yichen Li, and **Mingcai Chen**†.
+Budget-Conditioned Clipping Policies for Differentially Private Federated Learning.
+*Proceedings of the 40th Annual Conference on Neural Information Processing Systems (**NeurIPS'26**).*
+[Acceptance Rate: ~25.7%]
 
-**Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, Bingkun Bao.  
-Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data.  
-*Proceedings of The Forty-second International Conference on Machine Learning (**ICML 25**)*  
+Xianjie Guo, Kui Yu, Shuai Yang, Xiaoli Tang, Han Yu, and **Mingcai Chen**†.
+SFFedMC: Spurious-Free Federated Multi-View Clustering via Privacy-Preserving Confounder Balancing.
+*Proceedings of the 34th ACM International Conference on Multimedia (**ACM MM'26**).*
+[Acceptance Rate: ~26.5%]
+
+**Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, and Bingkun Bao.
+Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data.
+*Proceedings of the 42nd International Conference on Machine Learning (**ICML'25**).*
 [Acceptance Rate: ~27%]
 
-**Mingcai Chen**, Yuntao Du, Wenyu Jiang, Baoming Zhang, Shuai Feng, Yi Xin, Chongjun Wang.  
-Robust Logit Adjustment for Learning with Long-Tailed Noisy Data. 
-*Proceedings of The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 25**)*  
+**Mingcai Chen**, Yuntao Du, Wenyu Jiang, Baoming Zhang, Shuai Feng, Yi Xin, and Chongjun Wang.
+Robust Logit Adjustment for Learning with Long-Tailed Noisy Data.
+*Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI'25**).*
 [Acceptance Rate: ~23%]
 
-**Mingcai Chen**, Yu Zhao\*, Bing He, Zongbo Han, Junzhou Huang, Jianhua Yao.  
-Learning with Noisy Labels over Imbalanced Subpopulations.  
-*IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)*
+**Mingcai Chen**, Yu Zhao\*, Bing He, Zongbo Han, Junzhou Huang, and Jianhua Yao.
+Learning with Noisy Labels over Imbalanced Subpopulations.
+*IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**).*
 
-
-**Mingcai Chen**, Yu Zhao\*, Bing He, Zhonghuang Wang, Jianhua Yao.  
-A Noisy-Label-Learning Formulation for Immune Repertoire Classification and Disease-Associated Immune Receptor Sequence Identification.  
-*Proceedings of The 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**)*.  
+**Mingcai Chen**, Yu Zhao\*, Bing He, Zhonghuang Wang, and Jianhua Yao.
+A Noisy-Label-Learning Formulation for Immune Repertoire Classification and Disease-Associated Immune Receptor Sequence Identification.
+*Proceedings of the 32nd International Joint Conference on Artificial Intelligence (**IJCAI'23**).*
 [Acceptance Rate: ~15%]
 
-**Mingcai Chen**, Hao Cheng, Yuntao Du, Ming Xu, Wenyu Jiang, Chongjun Wang.  
-Two Wrongs Don't Make a Right: Combating Confirmation Bias in Learning with Label Noise.  
-*Proceedings of the 37th AAAI Conference on Artificial Intelligence (**AAAI'23**)*.  
+**Mingcai Chen**, Hao Cheng, Yuntao Du, Ming Xu, Wenyu Jiang, and Chongjun Wang.
+Two Wrongs Don't Make a Right: Combating Confirmation Bias in Learning with Label Noise.
+*Proceedings of the 37th AAAI Conference on Artificial Intelligence (**AAAI'23**).*
 [Acceptance Rate: ~20%]
 
-**Mingcai Chen**, Yuntao Du , Yi zhang, Shuwei Qian, and Chongjun Wang.  
-Semi-Supervised Learning with Multi-Head Co-Training.  
-*Proceedings of the 36th AAAI Conference on Artificial Intelligence (**AAAI'22**)*.  
+**Mingcai Chen**, Yuntao Du, Yi Zhang, Shuwei Qian, and Chongjun Wang.
+Semi-Supervised Learning with Multi-Head Co-Training.
+*Proceedings of the 36th AAAI Conference on Artificial Intelligence (**AAAI'22**).*
 [Acceptance Rate: ~15%]
 
-**Mingcai Chen**, Yang Li, Yi-Heng Zhu, Fang Ge, Dong-Jun Yu.  
-SSCpred: Single-Sequence-Based Protein Contact Prediction Using Deep Fully Convolutional Network.  
-*Journal of Chemical Information and Modeling (**JCIM**)*
+**Mingcai Chen**, Yang Li, Yi-Heng Zhu, Fang Ge, and Dong-Jun Yu.
+SSCpred: Single-Sequence-Based Protein Contact Prediction Using Deep Fully Convolutional Network.
+*Journal of Chemical Information and Modeling (**JCIM**).*
 
-Wenyu Jiang, Hao Cheng, **MingCai Chen**, Chongjun Wang, Hongxin Wei.   
+Wenyu Jiang, Hao Cheng, **Mingcai Chen**, Chongjun Wang, and Hongxin Wei.
 DOS: Diverse Outlier Sampling for Out-of-Distribution Detection.
-Accepted by *the 12nd International Conference on Learning Representations (**ICLR'24**)*
+*Proceedings of the 12th International Conference on Learning Representations (**ICLR'24**).*
 
-Wenyu Jiang, Yuxin Ge, Hao Cheng, **Mingcai Chen**, Shuai Feng, Yuxin Ge, Chongjun Wang.  
-READ: Aggregating Reconstruction Error into Out-of-distribution Detection.   
-*Proceedings of the 37th AAAI Conference on Artificial Intelligence (**AAAI'23**)*.   
+Wenyu Jiang, Yuxin Ge, Hao Cheng, **Mingcai Chen**, Shuai Feng, and Chongjun Wang.
+READ: Aggregating Reconstruction Error into Out-of-distribution Detection.
+*Proceedings of the 37th AAAI Conference on Artificial Intelligence (**AAAI'23**).*
 
-Baoming Zhang, Ming Xu, **Mingcai Chen**, Mingyuan Chen, Chongjun Wang.   
-CopGAT: Co-propagation Self-supervised Graph Attention Network.  
-*In Proceedings of ISPA 2022*.  
+Baoming Zhang, Ming Xu, **Mingcai Chen**, Mingyuan Chen, and Chongjun Wang.
+CopGAT: Co-propagation Self-supervised Graph Attention Network.
+*Proceedings of the International Symposium on Parallel and Distributed Processing with Applications (**ISPA'22**).*
 
-Shuai Feng, Wenyu Jiang, **Mingcai Chen**, Yuntao Du, Hao Cheng, Chongjun Wang.  
-CESED: Exploiting Hyperspherical Predefined Evenly-Distributed Class Centroids for OOD Detection.  
-*In Proceedings of SDM 2023*.  
+Shuai Feng, Wenyu Jiang, **Mingcai Chen**, Yuntao Du, Hao Cheng, and Chongjun Wang.
+CESED: Exploiting Hyperspherical Predefined Evenly-Distributed Class Centroids for OOD Detection.
+*Proceedings of the SIAM International Conference on Data Mining (**SDM'23**).*
 
-Yuntao Du, Juan Jiang, Hongtao Luo, Haiyang Yang, **Mingcai Chen**, Chongjun Wang.  
-Bidirectional View based Consistency Regularization for Semi-Supervised Domain Adaptation.   
-*Transactions on Machine Learning Research*.   
+Yuntao Du, Juan Jiang, Hongtao Luo, Haiyang Yang, **Mingcai Chen**, and Chongjun Wang.
+Bidirectional View based Consistency Regularization for Semi-Supervised Domain Adaptation.
+*Transactions on Machine Learning Research (**TMLR**).*
 
 _* Equal contribution; † Corresponding author._
 
