@@ -34,7 +34,7 @@ SFFedMC: Spurious-Free Federated Multi-View Clustering via Privacy-Preserving Co
 *Proceedings of the 34th ACM International Conference on Multimedia (**ACM MM'26**).*
 [Acceptance Rate: ~26.5%]
 
-**Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Yuntao Du, Wenyu Jiang, Yanmeng Wang, Shuai Feng, and Bingkun Bao.
+**Mingcai Chen**, Baoming Zhang\*, Zongbo Han, Wenyu Jiang, Yanmeng Wang, Shuai Feng, Yuntao Du, and Bingkun Bao.
 Test-Time Selective Adaptation for Uni-Modal Distribution Shift in Multi-Modal Data.
 *Proceedings of the 42nd International Conference on Machine Learning (**ICML'25**).*
 [Acceptance Rate: ~27%]
@@ -44,7 +44,7 @@ Robust Logit Adjustment for Learning with Long-Tailed Noisy Data.
 *Proceedings of the 39th AAAI Conference on Artificial Intelligence (**AAAI'25**).*
 [Acceptance Rate: ~23%]
 
-**Mingcai Chen**, Yu Zhao\*, Bing He, Zongbo Han, Junzhou Huang, and Jianhua Yao.
+**Mingcai Chen**, Yu Zhao\*, Bing He, Zongbo Han, Junzhou Huang, Bingzhe Wu, and Jianhua Yao.
 Learning with Noisy Labels over Imbalanced Subpopulations.
 *IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**).*
 
